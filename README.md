@@ -7,7 +7,7 @@
 
 ### Goals
 
-(https://octodex.github.com/images/Goals_Makers_Sep20.jpeg)
+
 
 
 ## Brainstorming on wellbeing
