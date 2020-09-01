@@ -5,7 +5,7 @@
 * Reach out for help. Suffering alone is not fruitful.
 * Learn from feedback from other people.
 
-### Goals
+## Goals
 
 
 
