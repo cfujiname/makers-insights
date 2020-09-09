@@ -47,6 +47,7 @@
 read, so try to find something that I can uderstand better_
 
 * Create a Weekly Calendar for a structured learning process
+
 -_set smaller goals for each day, so it is easier to track progress_
 
 
