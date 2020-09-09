@@ -35,20 +35,20 @@
 
 * Anxiety and blanking when other people are watching me code
 
--_take my time to take notes, if needed, use pen and paper to structure the thought processes instead of rushing into the terminal and text editor_
+- _take my time to take notes, if needed, use pen and paper to structure the thought processes instead of rushing into the terminal and text editor_
 
 * Practice more exercises
 
--_after securing my hot desking space, focus on self-led-learning, making use of the practicals provided by the course_
+- _after securing my hot desking space, focus on self-led-learning, making use of the practicals provided by the course_
 
 * Revise concepts such as instance variables, local variables, OOP.
 
--_seek for help in different media, such as youtube videos and coding for dummies. Sometimes the sources provided are very difficult to 
+- _seek for help in different media, such as youtube videos and coding for dummies. Sometimes the sources provided are very difficult to 
 read, so try to find something that I can uderstand better_
 
 * Create a Weekly Calendar for a structured learning process
 
--_set smaller goals for each day, so it is easier to track progress_
+- _set smaller goals for each day, so it is easier to track progress_
 
 
 
