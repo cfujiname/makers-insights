@@ -49,6 +49,28 @@
 
   - _set smaller goals for each day, so it is easier to track progress_
 
+## _After Week 2_
+
+## What do I need to improve and how to get there
+
+* Anxiety and blanking when other people are watching me code
+
+  - _take my time to take notes, if needed, use pen and paper to structure the thought processes instead of rushing into the terminal and text editor_
+  - _prepare myself psychologically and take a look at the material before the process pairing_
+  - _SKETCH, SKETCH, SKETCH!!_
+ 
+
+* Practice more exercises
+
+  - _after securing my hot desking space, focus on self-led-learning, making use of the practicals provided by the course_
+
+* Revise concepts such as Dependency Injection, Relatioship between 2 classes
+
+  - _do at least one exercise of each concept over the weekend before the challenge, so when I get stuck, it will not be for that long_
+
+* Create a Weekly Calendar for a structured learning process
+
+  - _set smaller goals for each day, so it is easier to track progress_
 
 
 
